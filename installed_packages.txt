@@ -83,6 +83,7 @@ thunar 4.20.6-1.1
 thunar-archive-plugin 0.6.0-1.1
 timeshift 25.12.2-1.1
 tree 2.2.1-1
+tree-sitter-cli 0.25.10-3
 ttf-dejavu 2.37+18+g9b5d1b2f-7
 ttf-firacode-nerd 3.4.0-1
 ttf-jetbrains-mono-nerd 3.4.0-1
