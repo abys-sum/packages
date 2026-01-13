@@ -12,7 +12,7 @@ cachyos-settings 1:1.3.0-1
 cachyos-v3-mirrorlist 22-1
 cachyos-v4-mirrorlist 22-1
 cava 0.10.6-1.1
-chwd 1.17.1-1
+chwd 1.17.1-2
 cliphist 1:0.7.0-1.1
 cmake 4.2.1-1.1
 cpio 2.15-3.1
@@ -39,11 +39,11 @@ hyprpaper 0.8.1-1.1
 hyprpicker 0.4.5-8.1
 imagemagick 7.1.2.12-1.1
 iwd 3.10-1.1
-kitty 0.45.0-4
+kitty 0.45.0-4.1
 libinput-tools 1.30.1-1.1
 libpulse 17.0+r98+gb096704c0-1.1
-linux-cachyos 6.18.3-2
-linux-cachyos-headers 6.18.3-2
+linux-cachyos 6.18.5-2
+linux-cachyos-headers 6.18.5-2
 linux-firmware 1:20251125-2
 meson 1.10.0-4
 nano 8.7-1.1
@@ -65,7 +65,7 @@ pipewire-alsa 1:1.4.9-2.1
 pipewire-jack 1:1.4.9-2.1
 pipewire-pulse 1:1.4.9-2.1
 polkit-gnome 0.105-12.1
-prismlauncher 10.0.1-1
+prismlauncher 10.0.1-1.1
 python-gobject 3.54.5-2
 python-pip 25.3-3
 qt5-wayland 5.15.18+kde+r55-1.1
@@ -81,9 +81,9 @@ steam 1.0.0.85-1
 termdown 1.18.0-7
 thunar 4.20.6-1.1
 thunar-archive-plugin 0.6.0-1.1
-timeshift 25.12.2-1.1
+timeshift 25.12.4-1.1
 tree 2.2.1-1
-tree-sitter-cli 0.25.10-3
+tree-sitter-cli 0.25.10-3.1
 ttf-dejavu 2.37+18+g9b5d1b2f-7
 ttf-firacode-nerd 3.4.0-1
 ttf-jetbrains-mono-nerd 3.4.0-1
