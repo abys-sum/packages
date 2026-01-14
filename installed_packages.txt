@@ -22,6 +22,7 @@ efibootmgr 18-3.1
 exfatprogs 1.3.1-1.1
 expac 10-12.2
 fastfetch 2.56.1-2.1
+fd 10.3.0-1.1
 ffmpegthumbnailer 2.3.0-1.1
 firefox 146.0.1-1.1
 git 2.52.0-2.1
@@ -71,6 +72,7 @@ python-pip 25.3-3
 qt5-wayland 5.15.18+kde+r55-1.1
 qt6-wayland 6.10.1-1.1
 ranger 1.9.4-5
+ripgrep 15.1.0-2
 rofi 2.0.0-1.1
 rofi-emoji 4.1.0-2.1
 rustup 1.28.2-4.1
