@@ -46,6 +46,7 @@ libpulse 17.0+r98+gb096704c0-1.1
 linux-cachyos 6.18.5-2
 linux-cachyos-headers 6.18.5-2
 linux-firmware 1:20260110-1
+loupe 49.2-1.1
 meson 1.10.0-4
 nano 8.7-1.1
 ncdu 2.9.2-1.1
@@ -68,10 +69,11 @@ pipewire-pulse 1:1.4.9-2.1
 polkit-gnome 0.105-12.1
 prismlauncher 10.0.1-1.1
 python-gobject 3.54.5-2
+python-pillow 12.1.0-2
 python-pip 25.3-3
 qt5-wayland 5.15.18+kde+r55-1.1
 qt6-wayland 6.10.1-1.1
-ranger 1.9.4-5
+ranger-git 1.9.3.885.g08913377-1
 ripgrep 15.1.0-2
 rofi 2.0.0-1.1
 rofi-emoji 4.1.0-2.1
