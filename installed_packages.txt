@@ -58,6 +58,7 @@ networkmanager 1.54.3-1
 noto-fonts 1:2026.01.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
+npm 11.7.0-1
 ntfs-3g 2022.10.3-2.1
 nwg-look 1.0.6-1.1
 oh-my-posh-bin 29.1.0-1
