@@ -87,6 +87,7 @@ rustup 1.28.2-4.1
 seahorse 1:47.0.1-6
 slurp 1.5.0-1.1
 smartmontools 7.5-1.1
+socat 1.8.1.0-1.1
 steam 1.0.0.85-3.1
 termdown 1.18.0-7
 thunar 4.20.7-1.1
