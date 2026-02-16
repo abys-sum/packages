@@ -78,6 +78,7 @@ pipewire 1:1.4.10-2.1
 pipewire-alsa 1:1.4.10-2.1
 pipewire-jack 1:1.4.10-2.1
 pipewire-pulse 1:1.4.10-2.1
+pnpm 10.28.2-1
 polkit-gnome 0.105-12.1
 prismlauncher 10.0.2-2.1
 pulseaudio-alsa 1:1.2.12-5.1
